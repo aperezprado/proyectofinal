@@ -1,0 +1,15 @@
+.nav-link{
+    color:white;
+}
+.row{
+    background-color: black;
+}
+h2.title{
+    color:white;
+}
+footer{
+    background-color: black;
+}
+.row.padding-special{
+    padding-bottom: 6rem;
+}
